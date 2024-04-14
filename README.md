@@ -7,7 +7,7 @@
 #### To set up todoApp, follow these steps:
 
 ## Clone the repository:
-git clone 
+git clone https://github.com/TanmayBansal29/todoapp.git
 
 ## Navigate into the project directory:
 cd todoapp
